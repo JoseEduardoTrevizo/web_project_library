@@ -9,3 +9,4 @@ La página web de la Librería Triple Peaks es el primer proyecto en el programa
 -	Flexbox
 -	Posicionamiento
 -	Apilamiento vertical con z-index
+-	https://joseeduardotrevizo.github.io/web_project_library/
